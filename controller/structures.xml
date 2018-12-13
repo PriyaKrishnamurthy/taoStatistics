@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoStatistics_main" name="Statistics" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoStatistics_main" name="Statistics" url="/taoStatistics/TaoStatistics/index" />
+			<section id="taoStatistics_other" name="Template" url="/taoStatistics/TaoStatistics/templateExample" />
+		</sections>
+	</structure>
+</structures>
